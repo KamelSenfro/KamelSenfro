@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Design optimization Model for AEC industry<br>👯 I’m looking to collaborate on NLP and ML Projects<br>🌱 I’m currently Studying for the TensorFlow exam and AWS exam<br>💬 Loves Web Scraping they call me the Scrap Daddy<br>
+🔭 I’m currently working on Design optimization Model for AEC industry<br>👯 I’m looking to collaborate on NLP and ML Projects<br>🌱 I’m currently Studying for the TensorFlow exam and AWS exam<br>💬 Loves Web Scraping they call me the Scrap Daddy<br> ML Engineer @ Omdena
 
 
 ## 🌐 Socials:
